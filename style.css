@@ -1,0 +1,17 @@
+body {
+  background-image: url("Background.jpeg");
+}
+
+img {
+	width: 75px;
+}
+
+container{
+	padding: 50px;
+	margin: 80px;
+}
+
+h1{
+	text-align: center;
+	color: black;
+}
